@@ -1,2 +1,2 @@
 # odin-recipes
-first public project by yadviga007
+3 of my favourite recipes
