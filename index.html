@@ -6,28 +6,29 @@
     <link rel="stylesheet" href="../odin-recipes/style.css">
 </head>
 <body>
-  <div id="title"><h1>Recipes by Yadviga007</h1></div>
-  <div class="dots" onclick="this.classList.toggle('active');">
+  <div class="wrapper">
+   <header></header>
+   <main><div class="dots" onclick="this.classList.toggle('active');">
     <div class="dot"></div>
     <div class="dot"></div>
     <div class="shadow cut"></div>
-    <div class="container cut"></div>
-    <div class="drop cut2"></div>
-  </div>
-  <div class="list">
-    <ul>
-      <li><a href="../odin-recipes/pages/carbonara.html">Carbonara recipe</a></li>
-      <li><a href="../odin-recipes/pages/pierogi.html">Pierogi Recipe</a></li>
-      <li><a href="../odin-recipes/pages/crepes.html">Crepes</a></li>
-    </ul>
-  </div>
-  <div class="dot"></div>
-  </div>
-  <div class="cursor"
-    onclick="document.querySelector('.dots').classList.toggle('active');">
+    <div class="container cut">
+      <div class="drop cut2"></div>
+    </div>
+    <div class="list">
+      <ul>
+        <div class="title"><li><h4>Recipes by Yadviga007</h4></li></div>
+        <li><a href="../odin-recipes/pages/carbonara.html">Carbonara recipe</a></li>
+        <li><a href="../odin-recipes/pages/pierogi.html">Pierogi Recipe</a></li>
+        <li><a href="../odin-recipes/pages/crepes.html">Crepes</a></li>
+      </ul>
+    </div>
+    <div class="dot"></div>
+   </div>
+   <div class="cursor"
+       onclick="document.querySelector('.dots').classList.toggle('active');"></div></main>
+    <footer></footer>  
   </div>
 
 </body>
-
-
 </html>
