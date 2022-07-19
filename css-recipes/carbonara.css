@@ -1,6 +1,11 @@
 body {
     background-color: #ffc760
 }
+#description {
+    color: rgb(156, 51, 182);
+    font-size: 2em;
+    font-family: 'Josefin Sans', sans-serif;
+}
 .container {
     display: flex;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
