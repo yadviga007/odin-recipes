@@ -1,0 +1,28 @@
+body {
+    background-color: #ffc760
+}
+.container {
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container__sidebar {
+    width: 30%;
+}
+
+.escape {
+    border: 0;
+    padding: 30px 15px;
+    width: 200px;
+    background: rgb(216, 135, 236);
+    color: #ffc760;
+    font-size: 2em;
+    font-weight: bold;
+    transition: background .3s linear;
+    letter-spacing: 2px;
+    border-radius: 10px;
+}
+.container__main {
+    width: 70%;
+    flex: 1;
+    overflow: auto;
+}
