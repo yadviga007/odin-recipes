@@ -56,10 +56,10 @@ body {
 }
 #little-title1 {
     color: rgb(156, 51, 182);
-    font-size: 2em;
+    font-size: 2.5em;
     font-family: 'Josefin Sans', sans-serif;
 }
-#ingredients {
+#filling-steps {
     font-size: 1.4em;
     color: #3a0061;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -78,4 +78,20 @@ body {
     color: rgb(156, 51, 182);
     font-size: 2em;
     font-family: 'Josefin Sans', sans-serif;  
+}
+
+#doughyy {
+    color: rgb(156, 51, 182);
+    font-size: 2em;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#dough-steps {
+    font-size: 1.4em;
+    color: #3a0061;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#filling {
+    color: rgb(156, 51, 182);
+    font-size: 2em;
+    font-family: 'Josefin Sans', sans-serif;
 }

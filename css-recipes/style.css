@@ -126,6 +126,7 @@ body {
   main {
     flex: 1;
   }
-  .title {
+  #title {
     color: rgb(204, 0, 255);
+    font-family: 'Josefin Sans', sans-serif;
   }
