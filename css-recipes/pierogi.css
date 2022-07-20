@@ -65,12 +65,3 @@ body {
     color: #3a0061;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-#vl {
-    border-left: 6px #3a0061;
-    height: auto;
-    position: absolute;
-    left: 50%;
-    margin-left: -3px;
-    top: 0;
-    border-radius: 10px;
-}

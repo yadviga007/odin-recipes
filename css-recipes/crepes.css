@@ -27,7 +27,7 @@ body {
     overflow: auto;
 }
 .encourage {
-    font-size: 2em;
+    font-size: 2.2em;
     color: #6900af;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -44,7 +44,7 @@ body {
     width: 55%;
     height: auto;
 }
-.steps, .ingredients, .origins {
+.steps, .ingredients, .long {
     font-size: 1.4em;
     color: #3a0061;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
