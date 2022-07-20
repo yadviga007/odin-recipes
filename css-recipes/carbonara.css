@@ -31,3 +31,51 @@ body {
     flex: 1;
     overflow: auto;
 }
+.origins {
+    font-size: 1.4em;
+    color: #3a0061;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.encourage {
+    font-size: 2.2em;
+    color: #6900af;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.title {
+    font-size: 2em;
+    color: #74359e;
+    font-family: 'Josefin-Sans' sans-serif;
+}
+#image {
+    max-width: 55%;
+    height: auto;
+}
+#MyImage {
+    width: 55%;
+    height: auto;
+}
+#little-title1 {
+    color: rgb(156, 51, 182);
+    font-size: 2em;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#ingredients {
+    font-size: 1.4em;
+    color: #3a0061;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#instruction-step-by-step {
+    color: rgb(156, 51, 182);
+    font-size: 2em;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#steps {
+    font-size: 1.4em;
+    color: #3a0061;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#Voila {
+    color: rgb(156, 51, 182);
+    font-size: 2em;
+    font-family: 'Josefin Sans', sans-serif;  
+}
