@@ -1,11 +1,6 @@
 body {
     background-color: #ffc760
 }
-#description {
-    color: rgb(156, 51, 182);
-    font-size: 2em;
-    font-family: 'Josefin Sans', sans-serif;
-}
 .container {
     display: flex;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -59,39 +54,23 @@ body {
     font-size: 2.5em;
     font-family: 'Josefin Sans', sans-serif;
 }
-#filling-steps {
-    font-size: 1.4em;
-    color: #3a0061;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-#instruction-step-by-step {
-    color: rgb(156, 51, 182);
-    font-size: 2em;
-    font-family: 'Josefin Sans', sans-serif;
-}
-#steps {
-    font-size: 1.4em;
-    color: #3a0061;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-#Voila {
-    color: rgb(156, 51, 182);
-    font-size: 2em;
-    font-family: 'Josefin Sans', sans-serif;  
-}
 
-#doughyy {
+.filling, .doughyy, .instruction-step-by-step, .description, .voila {
     color: rgb(156, 51, 182);
     font-size: 2em;
     font-family: 'Josefin Sans', sans-serif;
 }
-#dough-steps {
+.steps, .dough-steps, .filling-steps {
     font-size: 1.4em;
     color: #3a0061;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-#filling {
-    color: rgb(156, 51, 182);
-    font-size: 2em;
-    font-family: 'Josefin Sans', sans-serif;
+#vl {
+    border-left: 6px #3a0061;
+    height: auto;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+    border-radius: 10px;
 }
